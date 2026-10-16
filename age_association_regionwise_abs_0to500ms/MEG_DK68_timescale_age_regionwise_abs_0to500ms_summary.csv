@@ -1,0 +1,2 @@
+absolute_value_rule,upper_threshold_ms_exclusive,n_regions_tested,n_fdr_positive,n_fdr_negative,min_region_n,max_region_n,median_region_n,total_region_subject_values_excluded_ge500,total_negative_values_converted_to_absolute
+0 < abs(timescale_ms) < 500,500.0,68,12,13,284,1130,932.5,18394,0

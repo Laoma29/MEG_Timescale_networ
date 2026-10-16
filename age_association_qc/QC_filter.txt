@@ -1,0 +1,4 @@
+Filter: (knee_at_lower_grid_bound == False) and (knee_at_upper_grid_bound == False) and (fit_r2 > 0)
+Rows before: 78608
+Rows after: 12886
+Subjects after: 1156
